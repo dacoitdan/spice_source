@@ -23,6 +23,8 @@ main{
 	flex: 1 0 auto;
 	margin-bottom: 50px;
 	margin-top: 75px;
+	padding-right: 5%;
+	box-sizing: border-box;
 }
 
 ul {
@@ -121,7 +123,6 @@ div h3 {
 aside {
 	display: flex;
 	width: 30%;
-	float: left;
 }
 
 blockquote {
