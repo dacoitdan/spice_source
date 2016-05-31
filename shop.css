@@ -113,11 +113,10 @@ footer > small{
 }
 
 .checkout {
-	position: relative;
-	margin-left: 80%;
 	margin-bottom: 12px;
 	font-size: 12px;
 	display: inline;
+	float: right;
 }
 
 .checkout > span {
