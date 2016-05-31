@@ -144,10 +144,11 @@ footer > small{
 
 .item{ 
 	padding: 1em;
-	margin: 1%;
+	margin: 10px;
 	float: left;
-	width: 27%;
+	width: 30%;
 	background-color: #eee;
+	box-sizing: border-box;
 }
 
 .item > img {
