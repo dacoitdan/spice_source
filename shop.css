@@ -24,6 +24,8 @@ main{
 	margin: 10%;
 	margin-bottom: 50px;
 	margin-top: 50px;
+	min-width: 815px;
+	max-width: 1200px;
 }
 
 ul {
@@ -152,7 +154,7 @@ footer > small{
 }
 
 .item > img {
-	width:100%;
+	width: 100%;
 }
 
 .buy {
