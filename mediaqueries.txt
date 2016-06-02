@@ -1,0 +1,5 @@
+Responsive Web Design
+fluid grid and flexible images 
+	%, not px
+media queries
+	adjust styles of specific elements
