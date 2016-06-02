@@ -211,6 +211,13 @@ section {
 
 /* About */
 
+.story{
+	border: none;
+	width: 100%;
+	margin: 0;
+	padding-top: 2em;
+}
+
 .story > p:nth-child(3) {
 	font-size: 1.1em;
 }
