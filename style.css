@@ -105,3 +105,139 @@ footer > small{
 	padding-bottom: 20px;
 	border-bottom: 1px solid #eee;
 }
+
+/* About */
+
+
+.story > p:nth-child(3) {
+	font-size: 1.1em;
+}
+
+#map {
+	float: right;
+	padding: 1em;
+	margin: 1em;
+	padding-top:0;
+	margin-top:0;
+	border-left: 1px solid #eee;
+}
+
+/* Shop */
+
+.topbar {
+	background-color: #eee;
+	padding: 1em;
+	margin-top: 1em;
+}
+
+.checkout {
+	margin-bottom: 12px;
+	font-size: 12px;
+	display: inline;
+	float: right;
+}
+
+.checkout > span {
+	margin: 0 auto;
+	margin-left: 10px;
+}
+
+#cart {
+	width: 20px;
+	display: inline;
+	text-align: right;
+}
+
+.products {
+	width: 100%;
+	margin: 1em;
+	margin-top: 1.5em;
+}
+
+.row {
+	height: 50%;
+	width: 100%;
+	float: left;
+}
+
+.item{ 
+	padding: 1em;
+	margin: 1.51667%;
+	float: left;
+	width: 30%;
+	background-color: #eee;
+	box-sizing: border-box;
+}
+
+.item > img {
+	width: 100%;
+}
+
+.buy {
+	margin-top: 8px;
+}
+
+.price{
+	font-size: .7em;
+}
+
+.purchase{
+	float: right;
+	display: inline;
+	font-size: .7em;
+	margin-top: 5px;
+}
+
+/* contact */
+
+.form {
+	font-family: sans-serif;
+	font-size: .9em;
+}
+
+input[type="text"],
+input[type="email"]{
+	width:60%;
+	height:2em;
+}
+
+input[type="checkbox"]{
+	margin:0;
+	padding:0;
+	margin-left: 5px;
+	position: relative;
+	display: inline;
+}
+
+form > .text {
+	float: left;
+	padding: 1em;
+	width: 45%;
+}
+
+.textarea {
+	float: left;
+	padding: 1em;
+	width: 100%;
+}
+
+.checkbox{
+	float: left;
+	width:75%;
+	padding: 1em;
+}
+
+label{
+	display: inline;
+	width:50%;
+}
+
+textarea {
+	width: 100%;
+	height: 100px;
+}
+
+form > div > div {
+	margin-top:1em;
+}
+
